@@ -1,3 +1,5 @@
+<h1>Hacking on OWI-535 Robotic Arm</h1>
+![alt tag](http://robomo.com/wp-content/uploads/2014/01/IMAG0233-1024x577.jpg)
 <h3>Requirements</h3>
 SainSmart L293D Motor Drive:<br>
 http://www.sainsmart.com/arduino/arduino-shields/motor-shields/sainsmart-l293d-motor-drive-shield-for-arduino-duemilanove-mega-uno-r3-avr-atmel.html<br>
