@@ -1,3 +1,6 @@
+Needs AFMotor library:
+git@github.com:adafruit/Adafruit-Motor-Shield-library.git
+
 motor
 1 = M2 = Rotate
 2 = M4 = Upper Arm
